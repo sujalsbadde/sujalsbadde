@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sujal 👋</h1>
-<h3 align="center">Data & Software Enthusiast | Building things with code, one repo at a time</h3>
+<h3 align="center">Cyber Security Engineering Student | Building things with code, one repo at a time</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Data+Engineering+%7C+Full-Stack+Dev;Always+learning+something+new;Turning+ideas+into+working+code" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 - 💻 Building side projects like an **Expense Tracker** to sharpen full-stack skills
 - 🌱 Learning new tools in the data & backend engineering space
 - 💡 Interested in clean code, automation, and solving real-world problems with data
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: **[sujalsbadde@gmail.com]**
 
 ---
 
