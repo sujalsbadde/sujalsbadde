@@ -73,17 +73,7 @@ A Shell-based repository forked for hands-on data engineering workshop activitie
 
 ---
 
-### 📚 Currently Learning
 
-\`\`\`text
-Cybersecurity       ███████████████░░░  80%
-Python              ██████████████░░░░  75%
-Networking          █████████████░░░░░  70%
-Cloud Computing     ████████████░░░░░░  65%
-Linux               ███████████████░░░  80%
-\`\`\`
-
----
 
 ### 🤝 Connect With Me
 
