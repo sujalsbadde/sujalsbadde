@@ -2,7 +2,7 @@
 <h3 align="center">🔐 Cyber Security Engineering Student | Python • Linux • Networking • Cloud</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Data+Engineering+%7C+Full-Stack+Dev;Always+learning+something+new;Turning+ideas+into+working+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Always+learning+something+new;Turning+ideas+into+working+code" alt="Typing SVG" />
 </p>
 
 ---
