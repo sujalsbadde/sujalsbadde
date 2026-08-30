@@ -1,6 +1,13 @@
-## 👋 Hi, I'm Sujal Badde
+<h1 align="center">Hi there, I'm Sujal 👋</h1>
+<h3 align="center">🔐 Cyber Security Engineering Student | Python • Linux • Networking • Cloud</h3>
 
-### 🔐 Cyber Security Engineering Student | Python • Linux • Networking • Cloud
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Data+Engineering+%7C+Full-Stack+Dev;Always+learning+something+new;Turning+ideas+into+working+code" alt="Typing SVG" />
+</p>
+
+---
+
+### 
 
 I'm a 4th-year Cyber Security Engineering student passionate about cybersecurity, ethical hacking, cloud computing, and software development. I enjoy building practical projects and learning how systems, networks, and applications work under the hood.
 
@@ -81,10 +88,10 @@ Linux               ███████████████░░░  80%
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/your-linkedin" target="sujalbadde">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:your.sujalsbadde@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
